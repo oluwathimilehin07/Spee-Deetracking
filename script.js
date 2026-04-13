@@ -1,7 +1,7 @@
 const trackingData = [
   {
     status: 'Order Processed',
-    date: '2026-04-15 09:00 AM',
+    date: '2026-04-14 09:00 AM',
     location: 'Philadelphia Origin Facility',
     icon: 'fa-file-invoice',
     delivered: false
