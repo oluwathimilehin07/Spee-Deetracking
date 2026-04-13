@@ -1,36 +1,36 @@
 const trackingData = [
   {
     status: 'Order Processed',
-    date: '2026-04-10 09:00 AM',
+    date: '2026-04-14 09:00 AM',
     location: 'Philadelphia Origin Facility',
     icon: 'fa-file-invoice',
     delivered: false
   },
   {
     status: 'Package Picked Up',
-    date: '2026-04-11 02:30 PM',
-    location: 'Philadelphia, PA',
+    date: '2026-04-15 02:30 PM',
+    location: 'Chestnut St,Philadelphia, PA 19106',
     icon: 'fa-truck-loading',
     delivered: false
   },
   {
     status: 'In Transit',
     date: '2026-04-13 11:15 AM',
-    location: 'Distribution Center - Allentown, PA',
+    location: 'Chestnut St,Philadelphia, PA 19106',
     icon: 'fa-shipping-fast',
     delivered: false
   },
   {
     status: 'Local Sorting',
     date: '2026-04-16 07:45 AM',
-    location: 'Easton Sorting Hub',
+    location: 'Chestnut St,Philadelphia, PA 19106',
     icon: 'fa-sort-amount-down',
     delivered: false
   },
   {
     status: 'Out for Delivery',
     date: '2026-04-17 08:30 AM',
-    location: 'Mt Bethel, Pennsylvania',
+    location: 'Monroe County, PA 18330',
     icon: 'fa-box-open',
     delivered: false,
     class: 'scheduled'
@@ -38,7 +38,7 @@ const trackingData = [
   {
     status: 'Scheduled Delivery',
     date: 'April 17, 2026 10:30 AM',
-    location: '905 Toll Road, Mt Bethel, PA 18330',
+    location: '905 Toll Rd Effort, PA 18330',
     icon: 'fa-calendar-check',
     delivered: true,
     class: 'scheduled'
