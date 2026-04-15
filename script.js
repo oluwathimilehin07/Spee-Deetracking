@@ -37,7 +37,7 @@ const trackingData = [
   },
   {
     status: 'Scheduled Delivery',
-    date: '2026-04-20 10:30 AM',
+    date: '2026-04-21 10:30 AM',
     location: '905 Toll Rd Effort, PA 18330',
     icon: 'fa-calendar-check',
     delivered: true,
