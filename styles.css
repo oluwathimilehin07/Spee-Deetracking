@@ -199,6 +199,16 @@ header {
   background: #28a745;
 }
 
+.warning .status-icon {
+  background: #ffc107;
+  color: #333;
+}
+
+.warning .status-content {
+  border-left-color: #ffc107;
+  background: #fff8e1;
+}
+
 .delivered .status-content, .scheduled .status-content {
   border-left-color: #28a745;
 }
