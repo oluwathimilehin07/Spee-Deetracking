@@ -17,7 +17,7 @@ const trackingData = [
     status: 'Delay',
     date: '2026-04-17 11:15 AM',
     location: 'Allentown Distribution Center, PA 18101',
-    icon: 'fa-exclamation-triangle',
+    icon: 'fa-Shipping-Fast',
     delivered: false,
     class: 'warning'
   },
